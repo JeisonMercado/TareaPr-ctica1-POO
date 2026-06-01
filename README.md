@@ -1,2 +1,2 @@
-# TareaPr-ctica1-POO
-Sistema de Biblioteca, Sistema de Vehículos y Empresa de Telefonía.
+# TareaPr-ctica1-POO Parte 1
+Sistema de Biblioteca
